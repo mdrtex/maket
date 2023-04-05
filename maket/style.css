@@ -1,0 +1,251 @@
+.naz {
+  text-align: center;
+}
+.az {
+  display: inline-block;
+  text-align: center;
+  margin-left: 250px;
+}
+.azz {
+  display: inline-block;
+  text-align: center;
+  margin-left: 70px;
+}
+.azzz {
+  display: inline-block;
+  text-align: center;
+  margin-left: 50px;
+}
+.azzz h3 {
+  font-weight: bold;
+}
+.azzzz {
+  display: inline-block;
+  text-align: center;
+  margin-left: 70px;
+}
+.azzzzz {
+  display: inline-block;
+  text-align: center;
+  background-color: green;
+  margin-left: 50px;
+}
+.h {
+  display: inline-block;
+  background-color: rgb(211, 211, 237);
+  border-radius: 30px;
+}
+.one {
+  display: inline-block;
+  margin: 250px;
+}
+.iphone {
+  float: right;
+  padding-right: 250px;
+  margin-top: 30px;
+}
+.iphone2 {
+  display: inline-block;
+  margin: 250px;
+}
+.two {
+  display: inline-block;
+  padding-right: 250px;
+}
+.zero {
+  display: flex;
+}
+.k {
+  padding-left: 800px;
+  margin-top: -880px;
+}
+.k h3 {
+  padding-left: 100px;
+}
+.k svg {
+  padding-right: 20px;
+}
+.k2 {
+  padding-left: 800px;
+  margin-top: 30px;
+}
+.k2 h3 {
+  padding-left: 100px;
+}
+.k2 h5 {
+  padding-left: 40px;
+}
+.k2 svg {
+  padding-right: 20px;
+}
+.yoru {
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+}
+.yoru h2 {
+  margin: 20px;
+}
+.yoru h5 {
+  margin: 20px;
+}
+.yoru div {
+  margin: 20px;
+}
+.vl {
+  border-left: 4px solid black;
+  height: 120px;
+}
+.jett {
+  display: flex;
+  justify-content: center;
+}
+.jett .j1 {
+  margin: 40px;
+}
+.jett .j2 {
+  margin: 40px;
+}
+.jett .j3 {
+  margin: 40px;
+}
+.jett svg {
+  margin: 20px;
+}
+.chell {
+  display: inline-block;
+  margin: 150px;
+}
+.chell img {
+  width: 600px;
+}
+.zx {
+  padding-left: 800px;
+  margin-top: -600px;
+}
+.zx h5 {
+  padding-left: 1px;
+}
+.zx button {
+  margin: 30px;
+}
+.fax {
+  text-align: center;
+  margin-top: 300px;
+}
+.kartinka {
+  float: right;
+  padding-right: 10px;
+  margin-top: -850px;
+}
+.way {
+  display: inline-block;
+  margin: 200px;
+}
+.raze1 {
+  display: flex;
+}
+.raze1 .j1 {
+  margin: 20px;
+}
+.raze1 .j2 {
+  margin: 20px;
+}
+.raze1 svg {
+  margin: 20px;
+}
+.money {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.fax2 {
+  text-align: center;
+  margin-top: 300px;
+}
+.fax2 .nt {
+  margin-top: 30px;
+}
+.money .card {
+  margin: 10px;
+}
+.money .card-body {
+  text-align: center;
+}
+.money #ff {
+  text-decoration: none;
+}
+.star-rating {
+  font-size: 0;
+}
+.star-rating__wrap {
+  display: inline-block;
+  font-size: 1rem;
+}
+.star-rating__wrap:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.star-rating__ico {
+  float: right;
+  padding-left: 2px;
+  cursor: pointer;
+  color: #ffb300;
+}
+.star-rating__ico:last-child {
+  padding-left: 0;
+}
+.star-rating__input {
+  display: none;
+}
+.star-rating__ico:hover:before,
+.star-rating__ico:hover ~ .star-rating__ico:before,
+.star-rating__input:checked ~ .star-rating__ico:before {
+  content: "\f005";
+}
+.lx {
+  padding-left: 800px;
+  margin-top: -600px;
+}
+.lx h5 {
+  padding-left: 1px;
+}
+.lx h3 {
+  margin-top: 20px;
+}
+.x {
+  border-radius: 30px;
+}
+.x img {
+  width: 120px;
+}
+.x h5 {
+  display: inline-block;
+}
+.x .strelki {
+  padding-left: 400px;
+  margin-top: -90px;
+}
+.end {
+  padding: 30px;
+  margin-top: 300px;
+  display: inline-block;
+}
+.apps img {
+  width: 120px;
+  margin: 20px;
+}
+.samokat {
+  float: right;
+  margin-top: 200px;
+}
+.footer {
+  margin-top: 300px;
+}
+span {
+  color: orange;
+}
+.footer svg {
+  padding: 10px;
+}
